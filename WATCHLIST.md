@@ -16,7 +16,5 @@ This tracking list establishes baseline monitoring across our asset universe. No
 | **XRO** | Xero Limited | AU | Speculative / Monitoring Only | Premium-valued cloud accounting engine with sticky ecosystem metrics and global SaaS upside. |
 | **NVDA** | NVIDIA Corporation | US | Speculative / Monitoring Only | Monitoring AI compute infrastructure dominance to cross-reference with our physical hardware theses. |
 
-## 🎯 Capital Activation Gates
-*   [ ] Clear outstanding NZD Loan balance.
-*   [ ] Settle New Zealand travel expenses and build cash buffer.
-*   [ ] Initialize $500 AUD seed allocation and finalize broker selection (CMC Markets vs. Stake).
+---
+*Maintained by Cohen Pikari ([github.com/cohen-pikari](https://github.com/cohen-pikari))*
