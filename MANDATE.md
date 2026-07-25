@@ -32,3 +32,16 @@ The goal of this vault is to build a compoundable, research-driven framework for
 ## 7. Tax & Execution Disciplines
 *   **Australian CGT Efficiency:** To optimize for Australian tax law, positions should ideally be held for a minimum of 366 days to qualify for the **50% Capital Gains Tax (CGT) discount**. 
 *   **Tax Logging:** Every realization event (sale) must log estimated tax liabilities to avoid end-of-financial-year surprises.
+
+## 8. Market Capitalisation Policy
+
+**Core allocation (ETFs):** No explicit cap-size filter — index-tracking by design (A200, VAS, VGS, VTS capture full market breadth including small/mid/large cap).
+
+**Satellite allocation (individual equities):** Primarily large-cap / blue-chip, reflecting the mandate's 2-3+ year structural compounding thesis and preference for established, liquid, well-covered businesses (e.g. AAPL, BHP).
+
+**Speculative/monitoring-only tickers:** May include recent IPOs, high-volatility, or thematically-exotic names (e.g. SPCX) explicitly excluded from the Alpha Satellite allocation until a full thesis, valuation framework, and conviction level are formally established per the standard memo structure — monitoring only until promoted to active tracking.
+
+**Excluded:** Micro-cap and pre-revenue/speculative names without institutional-grade financial disclosure, consistent with the mandate's retail, long-only, fundamentals-first approach.
+
+---
+*Maintained by Cohen Pikari ([github.com/cohen-pikari](https://github.com/cohen-pikari))*
