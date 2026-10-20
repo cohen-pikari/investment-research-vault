@@ -27,17 +27,17 @@ The goal of this vault is to build a compoundable, research-driven framework for
 * **Minimum Evaluation Period:** 12 Months. No position will be structurally judged or exited based on short-term price volatility before this mark, unless the core thesis breaks.
 * **Target Horizon:** 2 to 3+ years for structural compounders.
 * **Primary Benchmarks:**
-  * S&P 500 Index (SPY) for US exposures.
-  * ASX 200 Total Return Index for AU exposures.
+* S&P 500 Index (SPY) for US exposures.
+* ASX 200 Total Return Index for AU exposures.
 
 ## 7. Tax & Execution Disciplines
 * **Australian CGT Efficiency:** To optimize for Australian tax law, positions should ideally be held for a minimum of 366 days to qualify for the 50% Capital Gains Tax (CGT) discount.
 * **Tax Logging:** Every realization event (sale) must log estimated tax liabilities to avoid end-of-financial-year surprises.
 
 ## 8. Market Capitalisation Policy
-* **Core allocation (ETFs):** No explicit cap-size filter — index-tracking by design (A200, VAS, VGS, VTS capture full market breadth including small/mid/large cap).
+* **Core allocation (ETFs):** No explicit cap-size filter, index-tracking by design (A200, VAS, VGS, VTS capture full market breadth including small/mid/large cap).
 * **Satellite allocation (individual equities):** Primarily large-cap / blue-chip, reflecting the mandate's 2-3+ year structural compounding thesis and preference for established, liquid, well-covered businesses (e.g. AAPL, BHP).
-* **Speculative/monitoring-only tickers:** May include recent IPOs, high-volatility, or thematically-exotic names explicitly excluded from the Alpha Satellite allocation until a full thesis, valuation framework, and conviction level are formally established per the standard memo structure — monitoring only until promoted to active tracking.
+* **Speculative/monitoring-only tickers:** May include recent IPOs, high-volatility, or thematically-exotic names explicitly excluded from the Alpha Satellite allocation until a full thesis, valuation framework, and conviction level are formally established per the standard memo structure. Monitoring only until promoted to active tracking.
 * **Excluded:** Micro-cap and pre-revenue/speculative names without institutional-grade financial disclosure, consistent with the mandate's retail, long-only, fundamentals-first approach.
 
 ---
