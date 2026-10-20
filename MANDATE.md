@@ -40,5 +40,10 @@ The goal of this vault is to build a compoundable, research-driven framework for
 * **Speculative/monitoring-only tickers:** May include recent IPOs, high-volatility, or thematically-exotic names explicitly excluded from the Alpha Satellite allocation until a full thesis, valuation framework, and conviction level are formally established per the standard memo structure. Monitoring only until promoted to active tracking.
 * **Excluded:** Micro-cap and pre-revenue/speculative names without institutional-grade financial disclosure, consistent with the mandate's retail, long-only, fundamentals-first approach.
 
+## 9. Review & Publication Cadence
+* **Monthly Review Slot:** A fixed monthly session (first weekend of the month) dedicated to vault maintenance. No live-feed automation; every update is a deliberate, hand-written output.
+* **Minimum Monthly Output:** At least one of the following per review: a new full thesis (graduating a name off the watchlist), a dated addendum to an existing thesis tied to a real catalyst (earnings, guidance change, macro data), or 1-2 new watchlist additions with a brief rationale.
+* **Visibility:** Each update is logged as a dated entry in the README, so cadence is visible without republishing live position or P&L data.
+
 ---
 *Maintained by Cohen Pikari ([github.com/cohen-pikari](https://github.com/cohen-pikari))*
