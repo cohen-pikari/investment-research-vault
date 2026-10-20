@@ -36,7 +36,7 @@ BHP represents a high-conviction structural commodity compounder whose 2-3+ year
 
 ## 5. Valuation Framework
 
-Live valuation figures, price targets, and the full bull/bear returns scenario are maintained privately and reviewed on the mandate's standard cadence — happy to walk through the current numbers directly.
+Live valuation figures, price targets, and the full bull/bear returns scenario are maintained privately and reviewed on the mandate's standard cadence. Happy to walk through the current numbers directly.
 
 **Assigned Portfolio Status:** Satellite Allocation (capped within the 12% Mandate Limit).
 **Thesis Status:** Active Tracking.
