@@ -1,6 +1,6 @@
-# Archive — Closed Positions
+# Archive: Closed Positions
 
-Historical record of positions previously tracked in this vault and since exited. Retained for accountability — a real track record includes the misses, not just the current winners.
+Historical record of positions previously tracked in this vault and since exited. Retained for accountability; a real track record includes the misses, not just the current winners.
 
 ## Closed Positions Log
 
