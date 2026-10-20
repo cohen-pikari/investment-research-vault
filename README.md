@@ -3,29 +3,29 @@
 A listed public equity and ETF thesis portfolio documenting structured asset analysis, catalyst tracking, and valuation methodology.
 
 ## 📁 Repository Framework Layout
-* `memos/` — individual thesis write-ups, organized by asset class and ticker (e.g. `memos/AU_Equities/BHP/thesis.md`)
-* `financial_models/` — supporting models, including `financial_models/Core_ETFs/etf_universe.md`
-* `WATCHLIST.md` — active candidate tracking matrix across core and speculative positions
-* `MANDATE.md` — governance rules for thesis review cadence and drawdown triggers
-* `ARCHIVE.md` — historical record of closed positions and outcomes
+* `memos/`: individual thesis write-ups, organized by asset class and ticker (e.g. `memos/AU_Equities/BHP/thesis.md`)
+* `financial_models/`: supporting models, including `financial_models/Core_ETFs/etf_universe.md`
+* `WATCHLIST.md`: active candidate tracking matrix across core and speculative positions
+* `MANDATE.md`: governance rules for thesis review cadence and drawdown triggers
+* `ARCHIVE.md`: historical record of closed positions and outcomes
 
 ## Portfolio Construction Approach
 Positions are tracked across two tiers: a 70–80% "Baseline Engine" of core, lower-volatility allocations, paired with a 20–30% high-conviction "Alpha Satellite Engine" for speculative, thesis-driven positions.
 
 ## Research & Valuation Methodology
 Each thesis in `memos/` follows a consistent structure to keep reasoning comparable across positions over time:
-1. **Core thesis statement** — the central argument in one sentence, forcing clarity before detail.
-2. **Macro/catalyst drivers** — the structural "why now" case, informed by company reports, industry commentary, and macro data (e.g. company annual/quarterly reports, ASX/Nasdaq announcements, analyst commentary from outlets like Morningstar).
-3. **Primary underwriting metric** — one specific, trackable financial metric chosen to test the thesis against future reporting (e.g. segment revenue growth, not blended headline numbers).
-4. **Quantitative "red line" violations** — pre-defined, numeric thresholds that would indicate the thesis is breaking, set before the fact to avoid retrospective rationalization.
-5. **Valuation framework** — current price, trailing P/E, market cap, and dividend yield as a baseline, with bull/bear case price targets built from the catalyst thesis rather than a full discounted cash flow model at this stage.
-6. **Conviction & sizing** — mapped against `MANDATE.md`'s position limits.
+1. **Core thesis statement**: the central argument in one sentence, forcing clarity before detail.
+2. **Macro/catalyst drivers**: the structural "why now" case, informed by company reports, industry commentary, and macro data (e.g. company annual/quarterly reports, ASX/Nasdaq announcements, analyst commentary from outlets like Morningstar).
+3. **Primary underwriting metric**: one specific, trackable financial metric chosen to test the thesis against future reporting (e.g. segment revenue growth, not blended headline numbers).
+4. **Quantitative "red line" violations**: pre-defined, numeric thresholds that would indicate the thesis is breaking, set before the fact to avoid retrospective rationalization.
+5. **Valuation framework**: current price, trailing P/E, market cap, and dividend yield as a baseline, with bull/bear case price targets built from the catalyst thesis rather than a full discounted cash flow model at this stage.
+6. **Conviction & sizing**: mapped against `MANDATE.md`'s position limits.
 
-Data sources currently include company financial reports and announcements, sector/analyst commentary (e.g. Morningstar, ARK), and general market/macro data. This is deliberately a fundamentals-first, thesis-driven process rather than a quantitative/algorithmic one — cross-referencing broader analyst sentiment is used to stress-test conviction, not to anchor the view.
+Data sources currently include company financial reports and announcements, sector/analyst commentary (e.g. Morningstar, ARK), and general market/macro data. This is deliberately a fundamentals-first, thesis-driven process rather than a quantitative/algorithmic one. Cross-referencing broader analyst sentiment is used to stress-test conviction, not to anchor the view.
 
 ## 🎯 Active Tracking Index
 
-Directional conviction calls, entry prices, and price targets are kept private to avoid publishing a dated public track record — happy to walk through an active thesis directly. Holdings and process shown below.
+Directional conviction calls, entry prices, and price targets are kept private to avoid publishing a dated public track record. Happy to walk through an active thesis directly. Holdings and process shown below.
 
 | Thesis Inception | Ticker | Company | Sector | Portfolio Tier | Core Catalyst Horizon | Review Cadence | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -38,15 +38,15 @@ Per `MANDATE.md`, active theses undergo formal segment evaluation every 3–6 mo
 
 ## Considered but Not Selected
 Global market/security exposures reviewed and deliberately excluded from the current mandate, not overlooked:
-* **Private equity / alternative assets** (venture capital, private credit, unlisted infrastructure) — excluded entirely; requires accredited investor status, large capital minimums, and multi-year illiquid lockups, none of which fit a retail, monthly-contribution mandate at this stage.
-* **Emerging Markets (VGE, EEM)** — excluded for now; correlation to AU resources exposure already high via existing satellite positioning.
-* **Direct European/UK equities** — excluded; developed-market ETF exposure already provides sufficient breadth without single-country concentration.
-* **Commodities** (direct or via ETF, e.g. gold, oil) — excluded per `MANDATE.md`; commodity exposure already indirectly captured through existing resources thesis exposure.
-* **Forex** (currency trading/speculation) — excluded per `MANDATE.md`; FX exposure exists passively through offshore holdings rather than as an active strategy.
-* **Cryptocurrency** — excluded per `MANDATE.md`'s asset universe restriction.
-* **Options/derivatives** — excluded per `MANDATE.md`; no hedging or leveraged strategies in current mandate scope.
-* **Direct fixed income** (bonds/bond ETFs) — not yet included; will be considered once the portfolio moves beyond the initial equity-only build phase.
-* **REITs / listed property** — not yet included; overlaps conceptually with existing infrastructure thesis exposure, avoiding double-exposure to similar macro drivers for now.
+* **Private equity / alternative assets** (venture capital, private credit, unlisted infrastructure): excluded entirely; requires accredited investor status, large capital minimums, and multi-year illiquid lockups, none of which fit a retail, monthly-contribution mandate at this stage.
+* **Emerging Markets (VGE, EEM)**: excluded for now; correlation to AU resources exposure already high via existing satellite positioning.
+* **Direct European/UK equities**: excluded; developed-market ETF exposure already provides sufficient breadth without single-country concentration.
+* **Commodities** (direct or via ETF, e.g. gold, oil): excluded per `MANDATE.md`; commodity exposure already indirectly captured through existing resources thesis exposure.
+* **Forex** (currency trading/speculation): excluded per `MANDATE.md`; FX exposure exists passively through offshore holdings rather than as an active strategy.
+* **Cryptocurrency**: excluded per `MANDATE.md`'s asset universe restriction.
+* **Options/derivatives**: excluded per `MANDATE.md`; no hedging or leveraged strategies in current mandate scope.
+* **Direct fixed income** (bonds/bond ETFs): not yet included; will be considered once the portfolio moves beyond the initial equity-only build phase.
+* **REITs / listed property**: not yet included; overlaps conceptually with existing infrastructure thesis exposure, avoiding double-exposure to similar macro drivers for now.
 
 ## ⚖️ Disclaimer
 This repository documents personal investment research methodology for educational and career-development purposes only. Nothing here constitutes financial advice, a recommendation, or a solicitation to buy or sell any security. Live positions and valuations are kept private. Do your own research and consult a licensed financial adviser before making investment decisions.
