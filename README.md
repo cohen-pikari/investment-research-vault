@@ -2,7 +2,7 @@
 
 A listed public equity and ETF thesis portfolio documenting structured asset analysis, catalyst tracking, and valuation methodology.
 
-## 📁 Repository Framework Layout
+## Repository Framework Layout
 * `memos/`: individual thesis write-ups, organized by asset class and ticker (e.g. `memos/AU_Equities/BHP/thesis.md`)
 * `financial_models/`: supporting models, including `financial_models/Core_ETFs/etf_universe.md`
 * `WATCHLIST.md`: active candidate tracking matrix across core and speculative positions
@@ -23,7 +23,7 @@ Each thesis in `memos/` follows a consistent structure to keep reasoning compara
 
 Data sources currently include company financial reports and announcements, sector/analyst commentary (e.g. Morningstar, ARK), and general market/macro data. This is deliberately a fundamentals-first, thesis-driven process rather than a quantitative/algorithmic one. Cross-referencing broader analyst sentiment is used to stress-test conviction, not to anchor the view.
 
-## 🎯 Active Tracking Index
+## Active Tracking Index
 
 Directional conviction calls, entry prices, and price targets are kept private to avoid publishing a dated public track record. Happy to walk through an active thesis directly. Holdings and process shown below.
 
@@ -32,7 +32,7 @@ Directional conviction calls, entry prices, and price targets are kept private t
 | 2026-07-29 | AAPL | Apple Inc. | Technology | Baseline Engine | Mac & Advanced Hardware Segment Revenue Growth | 3-Month Check (2026-10-18) | Tracking |
 | 2026-07-29 | BHP | BHP Group Ltd | Materials | Alpha Satellite | Copper Segment Revenue % of EBITDA & Production Guidance | 6-Month Check (2027-01-18) | Tracking |
 
-## 📅 Review & Checkup Cadence
+## Review & Checkup Cadence
 
 Per `MANDATE.md`, active theses undergo formal segment evaluation every 3–6 months upon release of corporate financial reports, with an out-of-cycle emergency review triggered if a position breaches its −10% or −15% structural drawdown boundary before its scheduled review date.
 
@@ -48,7 +48,11 @@ Global market/security exposures reviewed and deliberately excluded from the cur
 * **Direct fixed income** (bonds/bond ETFs): not yet included; will be considered once the portfolio moves beyond the initial equity-only build phase.
 * **REITs / listed property**: not yet included; overlaps conceptually with existing infrastructure thesis exposure, avoiding double-exposure to similar macro drivers for now.
 
-## ⚖️ Disclaimer
+## Related work
+
+Part of the same set of projects as [investment-reporting-toolkit](https://github.com/cohen-pikari/investment-reporting-toolkit), which models the operational control layer that confirms a fund's holdings are actually what they're recorded as, and [price-discovery-lab](https://github.com/cohen-pikari/price-discovery-lab), which covers how hard-to-price assets get valued. This repo is the research and underwriting layer: deciding what to own and why.
+
+## Disclaimer
 This repository documents personal investment research methodology for educational and career-development purposes only. Nothing here constitutes financial advice, a recommendation, or a solicitation to buy or sell any security. Live positions and valuations are kept private. Do your own research and consult a licensed financial adviser before making investment decisions.
 
 ---

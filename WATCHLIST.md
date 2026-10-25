@@ -2,7 +2,7 @@
 
 This list establishes baseline monitoring across the broader asset universe. Positions marked **Active** have been promoted to live tracking per the standard memo structure (see `README.md` Active Tracking Index); all others remain candidates under research, with no capital deployed.
 
-## 📊 Asset Watchlist Matrix
+## Asset Watchlist Matrix
 
 | Ticker | Company Name | Region | Category | One-Line Note / Thesis Core |
 | :--- | :--- | :--- | :--- | :--- |
