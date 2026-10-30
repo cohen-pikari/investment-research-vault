@@ -9,7 +9,7 @@ A listed public equity and ETF thesis portfolio documenting structured asset ana
 * `MANDATE.md`: governance rules for thesis review cadence and drawdown triggers
 * `ARCHIVE.md`: historical record of closed positions and outcomes
 
-## Portfolio Construction Approach
+## Research Framework
 Positions are tracked across two tiers: a 70–80% "Baseline Engine" of core, lower-volatility allocations, paired with a 20–30% high-conviction "Alpha Satellite Engine" for speculative, thesis-driven positions.
 
 ## Research & Valuation Methodology
@@ -54,6 +54,8 @@ Part of the same set of projects as [investment-reporting-toolkit](https://githu
 
 ## Disclaimer
 This repository documents personal investment research methodology for educational and career-development purposes only. Nothing here constitutes financial advice, a recommendation, or a solicitation to buy or sell any security. Live positions and valuations are kept private. Do your own research and consult a licensed financial adviser before making investment decisions.
+
+Parts of this project were built with AI assistance (Claude). I set the design, review the output and run the work.
 
 ---
 *Maintained by Cohen Pikari ([github.com/cohen-pikari](https://github.com/cohen-pikari))*
