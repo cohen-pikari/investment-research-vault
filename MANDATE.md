@@ -45,5 +45,22 @@ The goal of this vault is to build a compoundable, research-driven framework for
 * **Minimum Monthly Output:** At least one of the following per review: a new full thesis (graduating a name off the watchlist), a dated addendum to an existing thesis tied to a real catalyst (earnings, guidance change, macro data), or 1-2 new watchlist additions with a brief rationale.
 * **Visibility:** Each update is logged as a dated entry in the README, so cadence is visible without republishing live position or P&L data.
 
+## 10. Thesis Selection Screen
+Before a name graduates from the watchlist to a full thesis, it is scored once against five criteria (1 = weak, 3 = strong). The score and a one-line reason per criterion sit at the top of the thesis memo.
+
+| Criterion | What it asks |
+| :--- | :--- |
+| Mandate fit | Large-cap, liquid, well-covered, suited to a 2-3+ year horizon (section 8). |
+| Different driver | Adds an exposure driver the portfolio does not already have, rather than duplicating an existing satellite. |
+| Checkable catalyst | A specific event in the next 12 months (earnings, guidance, regulatory decision) that would test the thesis. |
+| Information quality | Clear segment reporting and filings, with enough coverage to see what the market already expects. |
+| Genuine interest | Likely to hold attention through repeated reviews. |
+
+* **Tier A (12-15):** write a full thesis now.
+* **Tier B (9-11):** stay on the watchlist, revisit at a later review.
+* **Tier C (8 or below):** skip for now.
+
+The score is a way to compare candidates, not a verdict, and a thesis is research, not a recommendation to buy.
+
 ---
 *Maintained by Cohen Pikari ([github.com/cohen-pikari](https://github.com/cohen-pikari))*
